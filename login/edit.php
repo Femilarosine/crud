@@ -240,7 +240,7 @@ function test_input($data) {
                         <div class="p-t-15">
                             <div class="row">
                             <div class="col-sm-2">
-                            <button class="btn btn--radius-2 btn--blue" type="submit">Submit</button></div>&nbsp&nbsp<div class="col-sm-2"><input type="button"  class="btn btn--radius-2 btn--blue" value="Back!" onclick="history.go(-1)"></div>
+                            <button class="btn btn--radius-2 btn--blue" type="submit">Submit</button></div>&nbsp&nbsp<div class="col-sm-2"><input type="button"  class="btn btn--radius-2 btn--blue" value="Previous" onclick="history.go(-1)"></div>
                             </div>
         </div>
         </div>
@@ -250,7 +250,7 @@ function test_input($data) {
                 
                     <?php 
                     }
-                // }
+            
             ?>
                 </div>
             </div>
@@ -270,5 +270,5 @@ function test_input($data) {
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 
 </html>
-<!-- end document-->
+
 
