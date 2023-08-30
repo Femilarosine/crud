@@ -30,7 +30,7 @@
 </div>
     <section style="margin: 50px 0;">
     <div class="container">
-            <table class="table table-secondary text-center">
+            <table class="table table-primary text-center">
                 <thead>
                   <tr>
 

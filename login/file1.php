@@ -44,13 +44,6 @@
                 alert("Only formats are allowed : "+fileExtension.join(', '));
             }
         });
-
-        // $("#FilUploader2").change(function () {
-        //     var fileExtension = ['xls', 'xlsx'];
-        //     if ($.inArray($(this).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
-        //         alert("Only formats are allowed : "+fileExtension.join(', '));
-        //     }
-        // });
     </script>
 </body>
 </html>

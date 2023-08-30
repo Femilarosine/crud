@@ -221,12 +221,7 @@ function test_input($data) {
             <img width="20%" height="18%" src="img/<?php echo $Image ?>"/><br>
 </div>
 </div>
-<!-- <div class="col-2">
-<div class="input-group">
-            <label class="text-info">Upload cv:</label><br>
-            <input type="file" name="pdf" id="FilUploader1" class="form-control"><br>
-</div>
-</div> -->
+
 </div>
 
 
@@ -240,14 +235,6 @@ function test_input($data) {
             }
         });
 
-        // $("#FilUploader1").change(function () {
-        //     var fileExtension = ['pdf','docx'];
-        //     if ($.inArray($(this).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
-        //         alert("Only formats are allowed : "+fileExtension.join(', '));
-        //     }
-        // });
-
-       
     </script>
 
                         <div class="p-t-15">
