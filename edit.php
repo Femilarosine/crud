@@ -97,13 +97,3 @@
 </body>
 
 </html>
-
-<!-- $page_data['file_name'] = $_FILES["file_name"]["name"];
-$oldfile = $_POST['old'];
-$file = $_FILES["file_name"]["name"];
-  if($file != "") {
-     move_uploaded_file($_FILES["file_name"]["tmp_name"], "uploads/parents_image/" . $_FILES["file_name"]["name"]); 
-   } else {
-     $file = $oldfile;
-     $page_data['file_name'] = $this->input->post('file_name');
-   } -->
