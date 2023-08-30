@@ -42,7 +42,7 @@
                     <th scope="col">Image</th>
                     <th scope="col" colspan="3">Action<br>
                    <span class="glyphicon">&#x270f;</span>&nbsp
-                   <i class="fa fa-trash-o" style="font-size:30px;color:black"></i>&nbsp
+                   <i class="fa fa-trash-o" style="font-size:30px;color:black"></i>
                    <i class="fa fa-eye" style="font-size:30px;color:blue"></i></th>
                     
                   </tr>
