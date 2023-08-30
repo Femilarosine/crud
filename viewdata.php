@@ -13,7 +13,7 @@
     </head>
 <body>
 
-  <table class='table table-dark'>
+  <table class='table table-info'>
       <thead>
           <tr>
               <th>Name</th>

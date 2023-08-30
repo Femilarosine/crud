@@ -18,7 +18,7 @@
         <div class="container"><a href="add.php" tite="add" class="btn btn-primary">Add+</a>&nbsp&nbsp<a href="logout.php" tite="Logout" class="btn btn-danger">Logout</a></div>
     <section style="margin: 50px 0;">
         <div class="container">
-            <table class="table table-dark">
+            <table class="table table-info">
                 <thead>
                   <tr>
 
